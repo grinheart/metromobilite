@@ -1,0 +1,20 @@
+{
+  "name": "mymetromobilite",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "leaflet": "^1.6.0",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olga Padkovenka",
+  "license": "ISC"
+}
