@@ -1,0 +1,5 @@
+function convert(t) {
+	hours = Math.floor(t / 3600);
+	mins = Math.floor((t - hours*3600) / 60);
+	return hours.toString() + ":" + mins.toString();
+}
